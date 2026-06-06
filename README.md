@@ -2,9 +2,6 @@
 
 ### Master of Information Technology student at UNSW | AI, Machine Learning & Software Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wenxiang-Diao&label=Profile views&color=0e75b6&style=flat" alt="Wenxiang-Diao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wenxiang-Diao" alt="Wenxiang-Diao" /></a> </p>
 
 - 🔭 I'm currently working on **I am currently working on machine learning and software development projects involving graph neural networks, deep learning, and video anomaly detection.**
 
@@ -21,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Wenxiang-Diao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Wenxiang-Diao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Wenxiang Diao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wenxiang Diao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Wenxiang-Diao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wenxiang Diao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
