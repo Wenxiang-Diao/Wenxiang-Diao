@@ -2,6 +2,7 @@
 
 ### Master of Information Technology student at UNSW | AI, Machine Learning & Software Development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wenxiang-Diao&label=Profile views&color=0e75b6&style=flat" alt="Wenxiang-Diao" /> </p>
 
 - 🔭 I'm currently working on **I am currently working on machine learning and software development projects involving graph neural networks, deep learning, and video anomaly detection.**
 
